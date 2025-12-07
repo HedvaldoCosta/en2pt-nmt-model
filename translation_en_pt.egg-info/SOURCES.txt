@@ -1,0 +1,16 @@
+setup.py
+src/__init__.py
+src/config.py
+src/data_loader.py
+src/evaluation.py
+src/model_loader.py
+src/preprocessing.py
+src/tokenizer.py
+src/utils.py
+src/trainer/__init__.py
+src/trainer/inference.py
+src/trainer/train.py
+translation_en_pt.egg-info/PKG-INFO
+translation_en_pt.egg-info/SOURCES.txt
+translation_en_pt.egg-info/dependency_links.txt
+translation_en_pt.egg-info/top_level.txt
